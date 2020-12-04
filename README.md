@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there ! My name is Antonios and I am graduate student at the University of Maryland in the Deparment of Aerospace Engineering. 
+
+
 
 <!--
 **antoniosgeme/antoniosgeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
