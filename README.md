@@ -1,4 +1,4 @@
-<img src="images/swiss.jpg" alt="drawing" width="700"/>
+<img src="images/swiss.jpg" alt="drawing"/>
 
 ### Hello there 👋
 My name is Antonios and I am PhD student in the Deparment of Aerospace Engineering at the University of Maryland. I am interested in the modelling and control of unsteady aerodynamics systems. I mainly do experiments but a bit of simulation never hurt anyone. Welcome! 
