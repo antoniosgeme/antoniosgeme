@@ -1,8 +1,7 @@
 <img src="images/sunset.jpg" alt="drawing" width="700"/>
 
-### Hello there !
-My name is Antonios and I am graduate student at the University of Maryland in the Deparment of Aerospace Engineering. 
-
+### Hello there 👋
+My name is Antonios and I am graduate student at the University of Maryland in the Deparment of Aerospace Engineering.  👋
 
 
 <!--
