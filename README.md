@@ -1,4 +1,4 @@
-![](images/sunset.jpg)
+![](images/sunset.jpg =100x20)
 
 ### Hello there !
 My name is Antonios and I am graduate student at the University of Maryland in the Deparment of Aerospace Engineering. 
