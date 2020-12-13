@@ -1,7 +1,3 @@
-Somewhere over switzerland...
-
-<img src="images/swiss.jpg" alt="drawin" width="700"/>
-
 ### Hello there!
 My name is Antonios and I am PhD student in the Deparment of Aerospace Engineering at the University of Maryland. I am interested in the modelling and control of unsteady aerodynamics systems. 
 
