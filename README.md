@@ -1,5 +1,5 @@
 ### Hello there!
-My name is Antonios and I am PhD candidate in the Deparment of Aerospace Engineering at the University of Maryland. I am interested in the modelling and control of unsteady aerodynamics systems. Welcome to my Github!
+I am PhD candidate in the Deparment of Aerospace Engineering at the University of Maryland. I am interested in the modelling and control of unsteady aerodynamics systems. Welcome to my Github!
 
 
 <!--
